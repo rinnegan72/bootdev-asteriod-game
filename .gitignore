@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Pygame related ignores
+game_state.jsonl
